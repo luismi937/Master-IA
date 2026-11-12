@@ -1,0 +1,22 @@
+{
+    "f3a7c713-9e54-41dd-b641-ce73211275dc": {
+        "category": "Alimentos",
+        "name": "Pan Integral",
+        "price": 1.45
+    },
+    "a5b7c609-874f-4f1f-b983-2bc7753629e6": {
+        "category": "Otros",
+        "name": "Botas de cuero",
+        "price": 89.99
+    },
+    "6b4963bd-3c33-4828-a69c-0967f3e3bc25": {
+        "category": "Alimentos",
+        "name": "Pan Integral",
+        "price": 1.45
+    },
+    "955da405-a2cb-4e6a-8d75-3147a9bba4fa": {
+        "category": "Otros",
+        "name": "Botas de cuero",
+        "price": 89.99
+    }
+}
